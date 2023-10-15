@@ -4,7 +4,7 @@ Neural Pathways to Attention Enhancement: AI-Driven Analysis of CM-II Meditation
 
 # Venue
 First IEEE International Conference on
-ARTIFICIAL INTELLIGENCE for MEDICINE, HEALTH, and CARE (AIMHC 2023)
+ARTIFICIAL INTELLIGENCE for MEDICINE, HEALTH, and CARE (AIMHC 2024)
 February 5-7, 2024
 The Hills Hotel, Laguna Hills, California, USA
 
