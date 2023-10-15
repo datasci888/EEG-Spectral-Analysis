@@ -2,6 +2,12 @@
 Neural Pathways to Attention Enhancement: AI-Driven Analysis of CM-II Meditation’s Effect on Student Performance
 # EEG Analysis of CM II Meditation Technique on Student Attention
 
+# Venue
+First IEEE International Conference on
+ARTIFICIAL INTELLIGENCE for MEDICINE, HEALTH, and CARE (AIMHC 2023)
+February 5-7, 2024
+The Hills Hotel, Laguna Hills, California, USA
+
 ## Introduction
 
 This repository provides insights into the effects of the Chakra-MarmaKosha Meditation (CM II) technique on academic success and student well-being. Elevated stress and inattention levels, which are detrimental to academic performance, can be alleviated through meditation techniques. The CM II meditation technique, developed specifically for this research, aims to improve students' attention levels. 
