@@ -1,9 +1,8 @@
 # EEG-Spectral-Analysis
-EEG Spectral Analysis for Inattention Detection in Academic Domain
+EEG Spectral Ratio Analysis 
 # EEG Analysis of CM II Meditation Technique on Student Attention
 
 # Venue
-2023 IEEE Frontiers in Education Conference (FIE), Texas October 18–21, 2023
 
 ## Introduction
 
