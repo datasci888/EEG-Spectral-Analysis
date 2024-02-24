@@ -3,7 +3,7 @@ EEG Spectral Ratio Analysis
 # EEG Analysis of CM II Meditation Technique on Student Attention
 
 # Venue
-
+FIE 2024, WASHINGTON DC, USA
 ## Introduction
 
 This repository provides insights into the effects of the Chakra-MarmaKosha Meditation (CM II) technique on academic success and student well-being. Elevated stress and inattention levels, which are detrimental to academic performance, can be alleviated through meditation techniques. The CM II meditation technique, developed specifically for this research, aims to improve students' attention levels. 
