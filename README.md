@@ -1,12 +1,9 @@
 # EEG-Spectral-Analysis
-Neural Pathways to Attention Enhancement: AI-Driven Analysis of CM-II Meditation’s Effect on Student Performance
+EEG Spectral Analysis for Inattention Detection in Academic Domain
 # EEG Analysis of CM II Meditation Technique on Student Attention
 
 # Venue
-First IEEE International Conference on
-ARTIFICIAL INTELLIGENCE for MEDICINE, HEALTH, and CARE (AIMHC 2024)
-February 5-7, 2024
-The Hills Hotel, Laguna Hills, California, USA
+2023 IEEE Frontiers in Education Conference (FIE), Texas October 18–21, 2023
 
 ## Introduction
 
